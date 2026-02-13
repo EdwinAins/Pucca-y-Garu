@@ -1,6 +1,6 @@
 // Customizable configuration
 const config = {
-    question: "¿Te gustaría salir conmigo? <3",
+    question: "¿Quieres ser mi San Valentin? <3",
     successMessage: "¡Lo sabía! 😊",
     successGif: "https://farm4.static.flickr.com/3262/2720527056_ce94a0ffb4_o.gif",
     yesButtonGrowthRate: 2, // Yes button growth factor
